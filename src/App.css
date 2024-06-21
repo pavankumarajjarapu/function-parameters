@@ -1,0 +1,53 @@
+form{
+  background-color: rgb(211, 240, 231);
+  width: 400px;
+  text-align: center;
+  padding: 20px;
+  margin: 50px;
+  
+
+}
+form label{
+  display: inline-block;
+  width: 100px;
+  font-family: sans-serif;
+  margin: 15px;
+  padding: 15px;
+}
+form input {
+  width: 50px;
+  height:30px ;
+  margin: 20px;
+}
+span{
+  width: 100px;
+  padding: 6px;
+ box-sizing: border-box;
+ display: inline-block;
+  
+}
+h1{
+  color: rgb(197, 14, 81);
+  font-family: serif;
+
+}
+button{
+  height: 30px;
+  width: 100px;
+  border: 3px groove rgb(32, 31, 31);
+  background-color:#C39898;
+  border-radius: 5px;
+}
+p{
+  color: rgba(165, 42, 42, 0.573);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 1px 5px 2px gray;
+  border-radius: 8px;
+  font-size: 20px;
+  background-color: azure;
+  padding: 9px;
+  
+}
+.marks{
+  border: 8px groove rgb(54, 33, 73);
+}
